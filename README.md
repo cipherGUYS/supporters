@@ -22,7 +22,7 @@ Github :&emsp;<a href="your github profile link">Github user name</a><br>
 # Contributor
 
 <div>
-<img align="right" src="https://lh3.googleusercontent.com/a-/AFdZucqM_uo3kSSuBVPf0UpimA1rZWFe0_X3YjViU1Ovjg" title="Tomin-joy" height="300" width="300">
+<img align="right" src="https://avatars.githubusercontent.com/u/67215154?s=400&u=05e0216ffcbf4984b8c5ffb9f80fa2def979aa07&v=4" title="Tomin-joy" height="300" width="300" >
 Name&ensp;:&emsp;Tomin joy<br>
 Desc&emsp;:&emsp;Engineering Student|Developer<br>
 Twitter&ensp;:&emsp;<a href="https://twitter.com/tomin_joy">@tomin_joy</a> <br>
