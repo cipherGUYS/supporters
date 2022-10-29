@@ -73,4 +73,19 @@ Github :&emsp;<a href="https://github.com/JOHNSRAJU">@Johns-Raju</a><br>
 </div>
 <hr>
 
+<div>
+<img align="right" src="https://avatars.githubusercontent.com/u/83496985?v=4" title="Allen-Saji" height="300" width="300" >
+Name&ensp;:&emsp;Allen Saji<br>
+Desc&emsp;:&emsp;Engineering Student | Full Stack Developer<br>
+Twitter&ensp;:&emsp;<a href="https://twitter.com/AllenSaji12">@AllenSaji12</a> <br>
+Github :&emsp;<a href="https://github.com/Allen-Saji">@Allen-Saji</a><br>
+<h2>Fields Interested</h2>
+<ul>
+<li>Web Development</li>
+<li>Blockchain</li>
+<li>Problem Solving</li> 
+</ul>
+</div>
+<hr>
+
 <!-- Paste your details above this comment -->
