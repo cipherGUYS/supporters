@@ -51,8 +51,24 @@ Github :&emsp;<a href="https://github.com/Akash-Vijay">@Akash-Vijay</a><br>
 <li>UI-UX Designing</li>
 <li>Cyber Security</li>
 <li>Linux Distro Exploration</li>
-<li>Open Sourcce Intelligence</li>
+<li>Open Source Intelligence</li>
 <li>Content Writing</li>
+</ul>
+</div>
+<hr>
+
+<div>
+<img align="right" src="https://avatars.githubusercontent.com/u/83854933?v=4" title="Johns Raju" height="300" width="300">
+Name&ensp;:&emsp;Johns Raju<br>
+Desc&emsp;:&emsp;Engineering Student | Programmer<br>
+Twitter&ensp;:&emsp;<a href="https://twitter.com/johns_raju">@Johns-Raju</a> <br>
+Github :&emsp;<a href="https://github.com/JOHNSRAJU">@Johns-Raju</a><br>
+<h2>Fields Interested</h2>
+<ul>
+<li>Web Development</li>
+<li>UI-UX Designing</li>
+<li>Cyber Security</li>
+<li>Coding</li>
 </ul>
 </div>
 <hr>
