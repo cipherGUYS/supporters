@@ -1,4 +1,4 @@
-# supporters
+# Supporters
 
 This repo is a place to show case our contributors and supporters
 <!-- Instructions -->
@@ -19,7 +19,7 @@ Github :&emsp;<a href="your github profile link">Github user name</a><br>
 </div>
 <hr>
  -->
-# contributers
+# Contributor
 
 <div>
 <img align="right" src="https://avatars.githubusercontent.com/u/67215154?v=4" title="Tomin-joy" height="300" width="300">
@@ -39,4 +39,22 @@ Github :&emsp;<a href="https://github.com/Tomin-Joy">@Tomin-Joy</a><br>
 </div>
 <hr>
 
-<!-- paste your details above this comment -->
+<div>
+<img align="right" src="https://avatars.githubusercontent.com/u/75192403?s=400&u=abef41a702b6e094e9642ec5ca7011cf032d0ed1&v=4" title="Akash Vijay" height="300" width="300">
+Name&ensp;:&emsp;Akash Vijay<br>
+Desc&emsp;:&emsp;Student Engineer | Front-End Developer | UI-UX Designer<br>
+Twitter&ensp;:&emsp;<a href="https://twitter.com/AkashVi43183447">@Akash-Vijay</a> <br>
+Github :&emsp;<a href="https://github.com/Akash-Vijay">@Akash-Vijay</a><br>
+<h2>Fields Interested</h2>
+<ul>
+<li>Front-End Development</li>
+<li>UI-UX Designing</li>
+<li>Cyber Security</li>
+<li>Linux Distro Exploration</li>
+<li>Open Sourcce Intelligence</li>
+<li>Content Writing</li>
+</ul>
+</div>
+<hr>
+
+<!-- Paste your details above this comment -->
