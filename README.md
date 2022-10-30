@@ -104,7 +104,7 @@ Github :&emsp;<a href="https://github.com/vivek-unni">@Vivekanand-R</a><br>
 <hr>
 
 <div>
-<img align="right" src="https://avatars.githubusercontent.com/u/83808984?v=4" title="Karun Chery James" height="300" width="300">
+<img align="right" src="https://avatars.githubusercontent.com/u/83808984?v=4" title="Karun Chery James" height="275" width="275">
 Name&ensp;:&emsp;Karun Chery James<br>
 Desc&emsp;:&emsp;Engineering Student | Programmer<br>
 Twitter&ensp;:&emsp;<a href="https://twitter.com/KarunCheryJames">@Karun_Chery_James</a> <br>
