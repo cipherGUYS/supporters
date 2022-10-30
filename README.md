@@ -89,7 +89,7 @@ Github :&emsp;<a href="https://github.com/Allen-Saji">@Allen-Saji</a><br>
 <hr>
 
 <div>
-<img align="right" src="https://avatars.githubusercontent.com/u/75977224?v=4" title="Vivekanand R" height="250" width="250">
+<img align="right" src="https://avatars.githubusercontent.com/u/75977224?v=4" title="Vivekanand R" height="275" width="275">
 Name&ensp;:&emsp;Vivekanand R<br>
 Desc&emsp;:&emsp;Engineering Student | Programmer<br>
 Twitter&ensp;:&emsp;<a href="https://twitter.com/VivekanandR1">@Vivekanand-R</a> <br>
