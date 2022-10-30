@@ -103,4 +103,18 @@ Github :&emsp;<a href="https://github.com/vivek-unni">@Vivekanand-R</a><br>
 </div>
 <hr>
 
+<div>
+<img align="right" src="https://avatars.githubusercontent.com/u/83808984?v=4" title="Karun Chery James" height="300" width="300">
+Name&ensp;:&emsp;Karun Chery James<br>
+Desc&emsp;:&emsp;Engineering Student | Programmer<br>
+Twitter&ensp;:&emsp;<a href="https://twitter.com/KarunCheryJames">@Karun_Chery_James</a> <br>
+Github :&emsp;<a href="https://github.com/Karuncj">@Karun_Chery_James</a><br>
+<h2>Fields Interested</h2>
+<ul>
+<li>Web Development</li>
+<li>UI-UX Designing</li>
+<li>Android Development</li>
+</ul>
+</div>
+<hr>
 <!-- Paste your details above this comment -->
