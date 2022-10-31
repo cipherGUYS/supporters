@@ -121,9 +121,9 @@ Github :&emsp;<a href="https://github.com/Karuncj">@Karun_Chery_James</a><br>
 <hr>
 
 <div>
-<img align="right" src="https://avatars.githubusercontent.com/u/79626816?s=400&u=3cd2e6d9e6cfb9a70b99d9b0a8dbde9be02b49a1&v=4" title="Reenphy George" height="200" width="200">
+<img align="right" src="https://avatars.githubusercontent.com/u/79626816?s=400&u=3cd2e6d9e6cfb9a70b99d9b0a8dbde9be02b49a1&v=4" title="Reenphy George" height="275" width="275">
 Name&ensp;:&emsp;Reenphy George<br>
-Desc&emsp;:&emsp;Building products -> Solving problems. <br>
+Desc&emsp;:&emsp;Building products; Solving problems. <br>
 Twitter&ensp;:&emsp;<a href="https://twitter.com/reenphygeorge">@reenphygeorge</a> <br>
 Github :&emsp;<a href="https://github.com/reenphygeorge">@reenphygeorge</a><br>
 <h2>Fields Interested</h2>
