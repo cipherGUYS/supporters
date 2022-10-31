@@ -76,7 +76,7 @@ Github :&emsp;<a href="https://github.com/JOHNSRAJU">@Johns-Raju</a><br>
 <hr>
 
 <div>
-<img align="right" src="https://avatars.githubusercontent.com/u/83496985?v=4" title="Allen-Saji" height="300" width="300" >
+<img align="right" src="https://avatars.githubusercontent.com/u/83496985?v=4" title="Allen-Saji" height="275" width="275" >
 Name&ensp;:&emsp;Allen Saji<br>
 Desc&emsp;:&emsp;Engineering Student | Full Stack Developer<br>
 Twitter&ensp;:&emsp;<a href="https://twitter.com/AllenSaji12">@AllenSaji12</a> <br>
